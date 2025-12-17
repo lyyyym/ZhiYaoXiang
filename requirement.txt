@@ -1,0 +1,4 @@
+gradio
+mindnlp==0.5.1
+sentence-transformers
+mindspore==2.7.1
