@@ -133,11 +133,7 @@ python gradio_app.py
    >
    > 预期：检索到药品，并告知用法。
 
-   ![image-20251218203941040](C:\Users\31949\AppData\Roaming\Typora\typora-user-images\image-20251218203941040.png)
-
-   <img src="C:\Users\31949\AppData\Roaming\Typora\typora-user-images\image-20251218200021873.png" alt="image-20251218200021873" style="zoom:50%;" />
-
-   
+   ![image-20251218203941040](https://github.com/lyyyym/ZhiYaoXiang/blob/main/image-zzzx.png?raw=true)
 
 2. **安全拦截 (Key Feature)**：
 
@@ -146,7 +142,7 @@ python gradio_app.py
    > 预期：模型检索到布洛芬，但发现禁忌症，强烈警告孕妇禁用。
    >
 
-   ![image-20251218203956458](C:\Users\31949\AppData\Roaming\Typora\typora-user-images\image-20251218203956458.png)
+   ![image-20251218203956458](https://github.com/lyyyym/ZhiYaoXiang/blob/main/image-aalj.png?raw=true)
 
 3. **缺货/无关处理**：
 
@@ -154,4 +150,4 @@ python gradio_app.py
    >
    > 预期：礼貌拒绝，并说明本机仅提供非处方药品。
    
-   ![image-20251218204044985](C:\Users\31949\AppData\Roaming\Typora\typora-user-images\image-20251218204044985.png)
+   ![image-20251218204044985](https://github.com/lyyyym/ZhiYaoXiang/blob/main/image-qh.png?raw=true)
