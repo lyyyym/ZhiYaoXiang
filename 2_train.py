@@ -1,7 +1,7 @@
 import os
 import json
 import mindspore
-# !!! 关键修改 1: 显式导入 Qwen2Tokenizer，不再用 AutoTokenizer !!!
+# 显式导入 Qwen2Tokenizer，不再用 AutoTokenizer
 from mindnlp.transformers import AutoModelForCausalLM, Qwen2Tokenizer
 from mindnlp.peft import LoraConfig, get_peft_model, TaskType
 from mindnlp.transformers import TrainingArguments, Trainer 
