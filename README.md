@@ -112,6 +112,8 @@ python build_simple_vector_db.py \
 
 > 运行后将生成vector_store2文件其中包括索引文件（meta.json,vectors.npy）。
 
+原默认文件inventory.json已替换为drug_knowledge_base.json
+
 ### 启动 Web 演示
 
 启动 Gradio 界面，体验完整的“问诊-检索-推荐”流程。
