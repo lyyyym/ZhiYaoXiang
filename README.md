@@ -104,10 +104,13 @@ python 2_train.py
 Bash
 
 ```
-python build_simple_vector_db.py
+python build_simple_vector_db.py \
+    --meta ./drug_knowledge_base.json \
+    --out ./vector_store2 \
+    --model all-MiniLM-L6-v2
 ```
 
-> 运行后将生成索引文件（meta.json,vectors.npy）。
+> 运行后将生成vector_store2文件其中包括索引文件（meta.json,vectors.npy）。
 
 ### 启动 Web 演示
 
