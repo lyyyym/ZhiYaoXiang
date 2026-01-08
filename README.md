@@ -55,11 +55,10 @@ Plaintext
 
 请确保您的环境满足以下要求：
 
-- **OS**: Linux (Ubuntu)
-- **Hardware**: Ascend 910B 
-- **Python**: 3.10
-- **MindSpore**: 2.7.0+
-- **Dependencies**:
+- **Python** 3.10
+- **MindSpore**  2.7.1(Ascend)	
+- **Mindnlp** 0.5.1
+- **Ascend 910B NPU**
 
 Bash
 
